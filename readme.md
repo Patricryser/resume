@@ -9,4 +9,5 @@
 
 ## Research Interests
 - Climate change detection and attribution using EOFs.
+- Determining weather regimes using EOFs and kmeans algorithms.
 
