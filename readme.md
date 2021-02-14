@@ -12,3 +12,9 @@
 - Determining weather regimes using EOFs and kmeans algorithms.
 - PhD location to be decided
 
+## Current Projects
+- S2S Weather Forecasting at Columbia University's IRI as part of the ACToday project for Senegal
+
+## Other Interests
+
+1. Open index.html in your browser
